@@ -1,0 +1,15 @@
+{
+  "packs": [
+    "Anime.json",
+    "bird_pack.json",
+    "black.json",
+    "catjam.json",
+    "Froggies.json",
+    "funnies.json",
+    "pepe_gun.json",
+    "Sadge.json",
+    "shiba.json",
+    "The_cat.json"
+  ],
+  "homeserver_url": "https://archworks.co"
+}
